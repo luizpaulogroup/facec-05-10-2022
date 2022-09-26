@@ -79,9 +79,6 @@ body {
     height: 200px;
     background-image: linear-gradient(to bottom, transparent, #000);
     bottom: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 .card .card-content .card-title {
